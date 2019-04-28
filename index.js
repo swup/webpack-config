@@ -1,4 +1,6 @@
-const baseConfig = {
+const UglifyJsPlugin = require('uglifyjs-webpack-plugin');
+
+module.exports = {
     mode: 'production',
     module: {
         rules: [
@@ -26,5 +28,3 @@ const baseConfig = {
         ]
     }
 };
-
-export default baseConfig;
