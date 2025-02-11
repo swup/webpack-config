@@ -11,6 +11,6 @@
     "url": "https://github.com/swup/webpack-config.git"
   },
   "dependencies": {
-    "uglifyjs-webpack-plugin": "^1.2.5"
+    "uglifyjs-webpack-plugin": "^2.2.0"
   }
 }
